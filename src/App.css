@@ -124,8 +124,20 @@ body {
   font-family: 'Lora', serif;
   text-transform: uppercase;
 }
+.changeWedding {
+  background-color: white;
+  color: rgb(15, 15, 15);
+  padding: 10px;
+  border: none;
+  font-family: 'Lora', serif;
+  text-transform: uppercase;
+}
 .Fon {
   background-color: #FFE3E1;
+}
+.fonTwo {
+  background-color: #f6bcdf;
+  padding: 10px;
 }
 h3, h4 {
   font-family: 'Lora', serif;

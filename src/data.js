@@ -4,9 +4,10 @@ export const data = [
     {
         id:1,
         name: "Dress",
-        searchTerm: "dressBlack",
-        price: 750,
-        image: "https://images.unsplash.com/photo-1637095945872-2b74deeee478?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmxhY2slMjBkcmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        searchTerm: "wedding",
+        price: 2000,
+        image: "https://images.unsplash.com/photo-1549416878-b9ca95e26903?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdlZGRpbmclMjBkcmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+  
        
  
     },
@@ -62,9 +63,9 @@ export const data = [
     {
         id:9,
         name: "Dress",
-        searchTerm: "dressYellow",
-        price: 980,
-        image: "https://www.victoriya-salon.ru/wp-content/uploads/2016/03/23418_1.jpg"
+        searchTerm: "dressGreen",
+        price: 750,
+        image: "https://i.pinimg.com/originals/62/30/0b/62300bbe8cd30ee52e47be1b3cd99d10.jpg"
     },
     {
         id:10,
@@ -76,9 +77,10 @@ export const data = [
     {
         id:11,
         name: "Dress",
-        searchTerm: "dressGreen",
-        price: 750,
-        image: "https://i.pinimg.com/originals/62/30/0b/62300bbe8cd30ee52e47be1b3cd99d10.jpg"
+        searchTerm: "dressYellow",
+        price: 980,
+        image: "https://www.victoriya-salon.ru/wp-content/uploads/2016/03/23418_1.jpg"
+       
     },
     {
         id:12,
@@ -107,5 +109,26 @@ export const data = [
         searchTerm: "dressBlue",
         price: 650,
         image: "https://images.unsplash.com/photo-1596703343725-7ca01bda9a45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Ymx1ZSUyMGRyZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:16,
+        name: "Dress",
+        searchTerm: "wedding",
+        price: 1650,
+        image: "https://images.unsplash.com/photo-1557363763-8381968f8353?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2VkZGluZyUyMGRyZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:17,
+        name: "Dress",
+        searchTerm: "wedding",
+        price: 1550,
+        image: "https://images.unsplash.com/photo-1585241920473-b472eb9ffbae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8d2VkZGluZyUyMGRyZXNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        id:18,
+        name: "Dress",
+        searchTerm: "dressBlack",
+        price: 750,
+        image: "https://images.unsplash.com/photo-1637095945872-2b74deeee478?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmxhY2slMjBkcmVzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     }
 ]

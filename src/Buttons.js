@@ -5,6 +5,7 @@ function Buttons ({filteredClothes}) {
         <button className="changeBlue" onClick={()=>filteredClothes("dressBlue")}>Dresses Blue</button>
         <button className="changeYellow" onClick={()=>filteredClothes("dressYellow")}>Dresses Yellow</button>
         <button className="changeGreen" onClick={()=>filteredClothes("dressGreen")}>Dresses Green</button>
+        <button className="changeWedding" onClick={()=>filteredClothes("wedding")}>Wedding dress</button>
     </div>)
 }
 export default Buttons;
