@@ -223,3 +223,19 @@ nav {
       margin-left: 6%;
       }
   }
+  @media all and (max-width: 500px){
+  
+      .contTwo {
+        display: flex;
+       flex-wrap: wrap;
+      }
+      nav {
+        display: flex;
+        justify-content: center;
+  
+      }
+      .Link{
+        font-size: 8px;
+        padding: 10px;
+        }
+  }
